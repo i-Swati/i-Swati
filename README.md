@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm @i-Swati! 
 
 ### 😊 Welcome to my GitHub profile!
-- 🌱 I'm a pre-final year student pursuing a Bachelor's degree in Computer Science and Engineering. 
+- 🌱 I'm a Final Year student pursuing a Bachelor's degree in Computer Science and Engineering. 
 
 - 🚀 I'm passionate about learning and implementing new technologies in the field.
 - 💻 I'm actively working on enhancing my knowledge and skills.
